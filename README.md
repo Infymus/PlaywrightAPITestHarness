@@ -21,4 +21,3 @@ A framework built with **C#**, **.NET**, **NUnit**, and **Microsoft Playwright**
 
 1. **Clone the Repository:**
    git clone [https://github.com/Infymus/VyneSDETTakeHome.git](https://github.com/Infymus/VyneSDETTakeHome.git)
-   cd VyneSDETTakeHome
